@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @gamidevMC
+- 👀 I’m interested in coding fixes for minecraft servers
